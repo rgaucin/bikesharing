@@ -6,6 +6,8 @@ The purpose of this analysis was to analyze bikesharing patterns in NYC and dete
 
 # Results
 
+The following visualizations can be seen together and interacted with on Tableau Public [here](https://public.tableau.com/app/profile/raquel.gaucin/viz/NYCCitiBikeAnalysis_16322695137980/NYCCitiBikeAnalysis).
+
 ## Top Starting Locations
 
 The following graph shows starting locations for bike trips across and outside Manhattan, with the number of trips beginning at a particular location signified by color hue intensity and marker size. The most popular starting locations tend to be in central and southern Manhattan, near the most densely populated urban areas and tourist attractions.
